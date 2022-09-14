@@ -1,0 +1,14 @@
+.card-personalizada {
+    width: 600px;
+    margin: 0 auto;
+    padding: 0 20px 20px 20px;
+    background-color: blue;
+}
+
+h3 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h5 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
